@@ -8,6 +8,18 @@ export default {
     src: 'https://github.com/moisesnetouou.png',
     alt: 'Moisés Neto',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+    alt: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
