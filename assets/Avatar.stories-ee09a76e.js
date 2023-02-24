@@ -1,0 +1,2 @@
+import{A as t}from"./index-6b2f1442.js";import"./index-18603407.js";import"./iframe-bf37b248.js";import"./index-144b2207.js";import"./jsx-runtime-aa398d2b.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/moisesnetouou.png",alt:"Moisés Neto"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},p={},c={args:{src:void 0,alt:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-ee09a76e.js.map
